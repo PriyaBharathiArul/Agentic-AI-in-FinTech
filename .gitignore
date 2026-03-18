@@ -1,0 +1,12 @@
+.env
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.streamlit/secrets.toml
+stdout.txt
+stderr.txt
+results*.xlsx
+archive/
