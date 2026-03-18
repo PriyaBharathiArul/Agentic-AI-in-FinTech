@@ -109,13 +109,4 @@ This demonstrates follow-up resolution across recent turns without repeating the
 
 The project includes benchmark evaluation across easy, medium, and hard finance questions. Answers are scored with an LLM-as-judge evaluator on a `0-3` rubric for correctness, completeness, and likely hallucination.
 
-## Resume Summary
-
-This project demonstrates:
-- agentic AI system design
-- multi-agent orchestration
-- LLM tool calling
-- LLM evaluation
-- Streamlit application development
-- finance data reasoning
 
